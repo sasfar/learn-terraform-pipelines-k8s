@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "psychic-bliss-254614",
+  "private_key_id": "a291b60dd349246fa2a615479ff0d89c82bee9a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCopepOrr+I3+C7\nk4C31o2acqZm2pYU5y6hmvNPn2E12R9VN9QVbTVdAvXiIoi1XEcDBv3wgOn78aR2\nW48NxE690hm9zcfSrErFaM0yqsVkt04BcyIsIGn9ZuDtBY/KEzKPo7JFoRVbKmPB\nFYmwswQfRn1ac/ntegKwSrvydkY7opkH42zyT6zk1AnzPn5VN8dTdXLcfUV6sY0/\nd45FTGFwbqYSy0a1gBt5MMyWkS2kp/r2gIUQSeTd4r3JUKmHqlfVHgeCTyG8wQaL\nlbuVrqmXXioPbZjAxqxauDsq64w0rgZbkKYrFMUCzBtUmE1iVDsJeG7gtqT60oqo\nBUYUEzEDAgMBAAECggEABcuNvZ5rnnxy8H8lESwiOYhvB2HDfnxjMdJtQfMsF/ma\nBgehFgtmpgeQA3FEWVcOaaA34afMYofvKtICnGp+ei9aCxejIi4hc58iTfdoSQmz\neIFIT1Pd0INUf1CNnFgEiMMLQTFD1poiS2Q+EwBTx+9YJ1+M2wgyR3SJ+M7vouTp\nK0sJ1/bSCKT6i1SJh5nVDOW4J2Kt9v8sttSPT8n/n08/dn9og4gGRbRJbt1CdqF8\nTZBk7U7wCWrPu5WHr3DW3swEC4PmMHGGhMxqQiRTFiwacguGFEsvGfNyKVp0WwjG\na4YMGqtA5QsQsZG0pCe0DWu5XTkZUDI527kpKXwwoQKBgQDXSZHWr5KYMGfQNSjL\nbVh+u0qGOH5PLE9n6b85fqOZVoNjtDW/g3tNzPzp/0E5qBtVBuujfuPxCVqYUEez\nDS1bwZWeIIki3KNkz33XmFiE94k5yT3VuNy6xpflZuj921GXVU5fzNDgNNYmXzZp\nUlG9EdG4J5/jk7qGp58hfi80lQKBgQDIinVhLGHpkYXIB9oI1GRwTF8YnyB0+pZ4\nUXuclH4bKfZPz+83vgHewUhx65Tq56OBNm/ERe6qlQD3utLvjCmCtf1nKWVna0nb\nN+USFDuhYonXecyfITvcFBBoUVqTLn12RAvAmlwK91f542BGhb1aX1mNPKyFO/Lz\naRfVKm0RNwKBgQCkiNaL1D1eUMhWiPo3lscmfC91qyFlkwDQ8wUxhMa1vzfFcIoP\nZwZKrJqyn2GTFhZlgld+6dB9e9+gPuK9RhnfYXDenBES8rtxpV6Q8h7c6G4ZGuNG\nPvV7TaHzMhZpRT/zP8AZWWhdoiP0yZnFHqPXsxGsA6SgAlxw4xSsPUsIjQKBgEtW\nGHqE3dOM46Edsf8XKxQ03JS3Us4fRV+13KYZ8rXpsaqSBt/99V3lZn3FbpBArN/h\nv2MQknRqvY5TFOMA2KdODwAuQPX1DC3adaexCiW6iuXzz7cIGSC4OOG3jjs0f9Vq\nArA8TM+h098AWC6mF1hX8aBpZrY2qzJeDKH76jVJAoGANAbexh3filyIVIxQr858\noj5p2G/fx0k1NGaapPoJF8aHkAGBqC3BWlMDBDEZbwrleTR85Tzkppw9DL+BpG4y\n680lhscCiCNjey/zvASrBV8EcE8sfgeyWmEWS322uviEPfYT0B9ZjqLu8Fs4bIHF\nceCx9CtLPqf3M6cL/7NOgkA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "compute-and-gke-admin@psychic-bliss-254614.iam.gserviceaccount.com",
+  "client_id": "111556016661743818690",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/compute-and-gke-admin%40psychic-bliss-254614.iam.gserviceaccount.com"
+}
