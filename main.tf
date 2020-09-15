@@ -13,4 +13,5 @@ provider "google" {
   project = var.google_project
   region  = var.region
   #credentials = "${file("${var.GCLOUD_KEYFILE_JSON}")}"
+  #testing
 }
